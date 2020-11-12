@@ -40,10 +40,10 @@ public class Person
         return this.name.equals(p.name);
     }
 
-    //toString override
+    //toString override to get the name of the person
     public void toString(Person p)
     {
-
+        return "This person's name is: "+this.name;
     }   
 
     public void addFriend(Person p)
