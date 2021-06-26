@@ -1,1 +1,2 @@
-# Friend-List
+# Project Details and Guidelines:
+From Black Mirror episode to China’s new Social Credit System, social media might be here to stay in one form or another. From image galleries to exercise apps, there is some sense of a “Friends List” – a list of people you are connected to or choose to connect to. You will need to test all methods for the Classes you design/create in this course (including constructors) – i.e. create a Driver.
